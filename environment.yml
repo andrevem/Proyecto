@@ -4,8 +4,9 @@ channels:
   - defaults
 dependencies:
   - osmnx
-  - urbanpy
-  - tqdm
   - jupyterlab
   - h3-py
   - nodejs
+  - pip:
+    - urbanpy
+    - tqdm
