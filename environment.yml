@@ -4,8 +4,8 @@ channels:
   - defaults
 dependencies:
   - osmnx
+  - urbanpy
+  - tqdm
   - jupyterlab
-  - powershell_shortcut
   - h3-py
   - nodejs
-prefix: C:\Users\hp ryzen 5\anaconda3\envs\ox
