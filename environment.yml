@@ -5,8 +5,8 @@ channels:
 dependencies:
   - osmnx
   - jupyterlab
-  - powershell_shortcut
   - h3-py
   - nodejs
-  - console_shortcut
-prefix: C:\Users\hp ryzen 5\anaconda3\envs\ox
+  - pip:
+    - urbanpy
+    - tqdm
